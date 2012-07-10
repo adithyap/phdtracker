@@ -1,0 +1,31 @@
+.applicant{
+    font-size: 13px;
+    padding: 10px;
+}
+
+.applicant a{
+    font-size: 15px;
+}
+
+.applicant-item{
+    margin-bottom: 20px;
+}
+
+.applicant-item a{
+    text-decoration: none;
+}
+
+input[type="submit"],button{
+    background:url(../../images/blue.gif);
+    padding-left: 5px;
+    padding-right: 5px;
+    border:1px solid #51708a;
+    line-height:24px;
+    height: 24px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin-right:10px;
+    display:inline-block;
+    text-decoration:none;
+    cursor: pointer;
+}

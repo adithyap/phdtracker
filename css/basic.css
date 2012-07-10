@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial,sans-serif;
+}
+
+.header{
+    color: #fff;
+    background-color: #51708a;
+    height: 40px;
+}
+
+
+.wrapper{
+    margin: 0 auto;
+    width: 990px;
+    display: block;
+}
+
+.menu{ float: right; margin-right: 10px; }
+
+.menu > ul{ list-style-type: none; }
+
+.menu > ul > li > a{ color: #fff; text-decoration: none;}
